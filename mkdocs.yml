@@ -1,0 +1,15 @@
+site_name: Wifi Communication
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'light blue'
+    accent: 'light green'
+
+markdown_extensions:
+  - codehilite
+
+plugins:
+    - search
+    - pdf-export
+
