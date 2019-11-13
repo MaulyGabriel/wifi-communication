@@ -1,15 +1,7 @@
 #  Wifi Communication
 
-<b>Desenvolvedor:</b> 
 
-Gabriel Mauly (Madruga)
-
-<b>Contato:</b>
-
-(18) 98167-8570 | gabriel.mauly@solinftec.com.br | live:gabrielmaulysolinftec
-
-
-## Solicitação:
+## Objetivo:
 
 Construir um servidor que seja capaz de enviar e receber dados através da comunicação wifi.
 
