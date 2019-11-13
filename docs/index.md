@@ -168,6 +168,9 @@ class Server:
                 con.close()
                 logger.debug('Type error in message')
                 sys.exit(0)
+            except ConnectionError:
+                logger.error('Timeout connection')
+
 
 
 
