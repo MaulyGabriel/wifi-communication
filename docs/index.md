@@ -1,4 +1,4 @@
-# Solinftec -  Wifi Communication
+#  Wifi Communication
 
 <b>Desenvolvedor:</b> 
 
